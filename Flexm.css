@@ -1,0 +1,221 @@
+@media (min-width:1280px){
+    .div1{
+        margin-top:100px;
+        margin-left:10px;
+        height:320px;
+        width:1600px;
+    }
+    .div2{
+        margin-top:30px;
+        margin-left:10px;
+        height:320px;
+        width:1500px
+    }
+    .div3{
+        margin-top:30px;
+        margin-left:10px;
+        height:320px;
+        width:1700px;
+    }
+    #div1a{
+        margin-top:15px;
+        height:300px;
+        width:400px;
+    }
+    #div2a{
+        height:300px;
+        width:750px;
+        border: 5px outset blue;
+        border-radius:20px;
+        margin-top:10px;
+        margin-right:5px;
+        background-color:rgb(106, 106, 225)
+    }
+    #div3a{
+        height:300px;
+        width:700px;
+        border: 5px outset blue;
+        border-radius:20px;
+        margin-top:10px;
+        background-color:rgb(106, 106, 225)
+        
+    }
+    #div4{
+        margin-top:20px;
+        height:30px;
+        width:1600px;
+        background-color:black;
+    }
+    .foot{
+        color:white;
+    }
+    .sam1{
+        margin-top:15px;
+        height:40px;
+    }
+    .tag{
+        color:white;
+    }
+    .start{
+        font-size:25px;
+        color:white;
+        background-color:red;
+        
+    }
+    dt{
+        font-size:25px;
+
+    }
+    dd{
+        font-size:20px;
+    }
+    #ben{
+        height:60px;
+        width:200px;
+        font-size:20px;
+        border: 2px inset black;
+        text-align:center;
+        
+        background-color:white;
+    }
+    #ben1{
+        margin-top:20px;
+    }
+    #ben3{
+        height:60px;
+        width:200px;
+        font-size:20px;
+        border: 2px inset black;
+        text-align:center;
+        
+        background-color:white;
+    }
+    #ben2{
+        margin-top:20px;
+    }
+    #ben6{
+        height:80px;
+        width:200px;
+        font-size:20px;
+        border: 2px inset black;
+        text-align:center;
+        
+        background-color:white;
+    }
+    .tag{
+        font-family: 'Agdasima', sans-serif;
+        font-size:27px;
+        font-variant:small-caps;
+    }
+}
+
+@media (max-width:641px){
+    .div1{
+        margin-top:30px;
+        margin-left:1px;
+        height:140px;
+        width:590px;
+    }
+    .div2{
+        margin-top:10px;
+        margin-left:1px;
+        height:140px;
+        width:520px
+    }
+    .div3{
+        margin-top:10px;
+        margin-left:1px;
+        height:140px;
+        width:590px;
+    }
+    #div1a{
+        margin-top:15px;
+        height:300px;
+        width:400px;
+    }
+    #div2a{
+        height:300px;
+        width:750px;
+        border: 5px outset blue;
+        border-radius:20px;
+        margin-top:10px;
+        margin-right:5px;
+        background-color:rgb(106, 106, 225)
+    }
+    #div3a{
+        height:300px;
+        width:700px;
+        border: 5px outset blue;
+        border-radius:20px;
+        margin-top:10px;
+        background-color:rgb(106, 106, 225)
+        
+    }
+    #div4{
+        margin-top:20px;
+        height:30px;
+        width:1600px;
+        background-color:black;
+    }
+    .foot{
+        color:white;
+    }
+    .sam1{
+        margin-top:15px;
+        height:40px;
+    }
+    .tag{
+        color:white;
+    }
+    .start{
+        font-size:25px;
+        color:white;
+        background-color:red;
+        
+    }
+    dt{
+        font-size:25px;
+
+    }
+    dd{
+        font-size:20px;
+    }
+    #ben{
+        height:60px;
+        width:200px;
+        font-size:20px;
+        border: 2px inset black;
+        text-align:center;
+        
+        background-color:white;
+    }
+    #ben1{
+        margin-top:20px;
+    }
+    #ben3{
+        height:60px;
+        width:200px;
+        font-size:20px;
+        border: 2px inset black;
+        text-align:center;
+        
+        background-color:white;
+    }
+    #ben2{
+        margin-top:20px;
+    }
+    #ben6{
+        height:80px;
+        width:200px;
+        font-size:20px;
+        border: 2px inset black;
+        text-align:center;
+        
+        background-color:white;
+    }
+    .tag{
+        font-family: 'Agdasima', sans-serif;
+        font-size:27px;
+        font-variant:small-caps;
+    }
+}
